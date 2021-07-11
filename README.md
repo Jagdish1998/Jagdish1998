@@ -4,7 +4,7 @@
 
 - 🔭 Currently studying at College of Engineering and Technology, Bhubaneswar.
 
-- 👨🏽‍💻 Skilled in Machine Learning & Deep Learning. A competitive programmer who is good at Data Structures & Algorithms and love do programs.
+- 👨🏽‍💻 Skilled in Machine Learning & Deep Learning. A competitive programmer who is good at Data Structures & Algorithms.
 
 - 🌱 2021 Goals: Looking forward to learning a lot.
 
@@ -14,6 +14,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jagdish1998&theme=dark)](https://github.com/Jagdish1998/github-readme-streak-stats)
 
 <br>
+### Connect with me 👯
 
 [![Twitter Badge](https://img.shields.io/badge/-@Jagdish-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JagdishSahoo5)](https://twitter.com/JagdishSahoo5) [![Linkedin Badge](https://img.shields.io/badge/-Jagdish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jagdishsahoo/)](https://www.linkedin.com/in/jagdishsahoo/)
 [![Instagram Badge](https://img.shields.io/badge/-Jagdish-green?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/n_a_r_c_o_t_i_c_18/)](https://www.instagram.com/n_a_r_c_o_t_i_c_18/)
@@ -28,5 +29,3 @@
 [![HackerRank](https://img.shields.io/badge/-HackerRank-563D7C?style=flat-square&logo=hackerrank&link=https://www.hackerrank.com/viratrunmachine1?hr_r=1)](https://www.hackerrank.com/viratrunmachine1?hr_r=1)
 
 <br/>
-
-*Thanks for coming :)*
