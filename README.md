@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Amigos 👋
 
 - 👋 I'm Jagdish, a passionate tech enthusiast, coder and a learner.
 
