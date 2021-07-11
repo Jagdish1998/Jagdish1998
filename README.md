@@ -1,14 +1,14 @@
-### Hi Amigos 👋
+### Hi Amigos <a href="https://www.linkedin.com/in/jagdishsahoo/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 - 👋 I'm Jagdish, a passionate tech enthusiast, coder and a learner.
 
 - 🔭 Currently studying at College of Engineering and Technology, Bhubaneswar.
 
-- 👨🏽‍💻 Skilled in Machine Learning & Deep Learning. A competitive programmer who is good at Data Structures & Algorithms.
+- 👨🏽‍💻 Ask me about Competitive Programming / Data Structures & Algorithms / Machine Learning.
 
-- 🌱 2021 Goals: Looking forward to learning a lot.
+- 🌱 2021 Goals: I'm currently learning advanced Data Structures & Algorithms.
 
-- ⚡ Fun Fact: A financial geek who love to read financial books and about startups.
+- ⚡ Fun Fact: I ❤️ reading financial books and about startups.
 
 ![Jagdish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jagdish1998&show_icons=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jagdish1998&theme=dark)](https://github.com/Jagdish1998/github-readme-streak-stats)
