@@ -27,8 +27,8 @@
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-%23F7DF1C?style=flat-square&logo=leetcode&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A&link=https://leetcode.com/jagdish1998/)](https://leetcode.com/jagdish1998/)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-%23F7DF1C?style=flat-square&logo=codechef&logoColor=000000&labelColor=%DEB887&color=%8B4513&link=https://codechef.com/users/jagdish1998)](https://codechef.com/users/jagdish1998)
+[![CodeForces](https://img.shields.io/badge/-CodeForces-61DAFB?style=flat-square&logo=codeforces&logoColor=000000&link=https://codeforces.com/profile/jagdish1998)](https://codeforces.com/profile/jagdish1998)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-563D7C?style=flat-square&logo=hackerrank&link=https://www.hackerrank.com/viratrunmachine1?hr_r=1)](https://www.hackerrank.com/viratrunmachine1?hr_r=1)
-[![HackerEarth](https://img.shields.io/badge/-HackerEarth-61DAFB?style=flat-square&logo=hackerearth&logoColor=ffffff&link=https://www.hackerearth.com/@jagdish156)](https://www.hackerearth.com/@jagdish156)
-[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-339933?style=flat-square&logo=geeksforgeeks&logoColor=ffffff&link=https://auth.geeksforgeeks.org/user/jagdish1998/profile)](https://auth.geeksforgeeks.org/user/jagdish1998/profile)
+[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-339933?style=flat-square&logo=geeksforgeeks&logoColor=000000&link=https://auth.geeksforgeeks.org/user/jagdish1998/profile)](https://auth.geeksforgeeks.org/user/jagdish1998/profile)
 
 <br/>
