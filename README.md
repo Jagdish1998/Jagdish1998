@@ -2,7 +2,7 @@
 
 - 👋 I'm Jagdish, a passionate tech enthusiast, coder and a learner.
 
-- 🔭 Currently studying at College of Engineering and Technology, Bhubaneswar.
+- 🔭 Currently studying at Odisha University of Technology and Research (formerly known as College of Engineering and Technology, Bhubaneswar).
 
 - 👨🏽‍💻 Ask me about Competitive Programming / Data Structures & Algorithms / Machine Learning.
 
