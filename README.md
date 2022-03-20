@@ -9,7 +9,7 @@
 - 🌱 2021 Goals: I'm currently learning advanced Data Structures & Algorithms.
 
 - ⚡ Hobbies: I ❤️ reading finance books and about startups.
-- 
+
 ## 📈 GitHub Stats
 ![Jagdish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jagdish1998&show_icons=true&theme=dark)
 ---
