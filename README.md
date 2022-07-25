@@ -39,3 +39,9 @@
 [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-339933?style=flat-square&logo=geeksforgeeks&logoColor=000000&link=https://auth.geeksforgeeks.org/user/jagdish1998/profile)](https://auth.geeksforgeeks.org/user/jagdish1998/profile)
 
 <br/>
+<hr>
+<p align="center">
+    <a href="https://github.com/adityathakurxd/">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Jagdish1998&theme=dark" />
+  </a>
+</p>
