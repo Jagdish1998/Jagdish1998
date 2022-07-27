@@ -6,7 +6,7 @@
 
 - 👨🏽‍💻 Ask me about Competitive Programming / Data Structures & Algorithms / Machine Learning.
 
-- 🌱 2022 Goals: I'm currently learning Fundamental and Technical Analysis of Stocks.
+- 🌱 2022 Goals: I'm currently learning technologies like spring, rest and angular.
 
 - ⚡ Hobbies: I ❤️ reading finance books and about startups.
 
