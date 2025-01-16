@@ -2,11 +2,11 @@
 
 - 👋 I'm Jagdish, a passionate tech enthusiast, coder and a learner.
 
-- 🔭 Currently studying at Odisha University of Technology and Research (formerly CET, Bhubaneswar).
+- 🔭 Currently working as a Digital Specialist Engineer in Infosys having 2.6 years experience in Java Spring boot backend development.
 
-- 👨🏽‍💻 Ask me about Competitive Programming / Data Structures & Algorithms / Machine Learning.
+- 👨🏽‍💻 Ask me about Java Springboot / Competitive Programming / Data Structures & Algorithms.
 
-- 🌱 2022 Goals: I'm currently learning technologies like spring, rest and angular.
+- 🌱 2025 Goals: I'm currently learning cloud technologies like AWS.
 
 - ⚡ Hobbies: I ❤️ reading finance books and about startups.
 
