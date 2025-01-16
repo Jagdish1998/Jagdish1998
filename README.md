@@ -2,7 +2,7 @@
 
 - 👋 I'm Jagdish, a passionate tech enthusiast, coder and a learner.
 
-- 🔭 Currently working as a Digital Specialist Engineer in Infosys having 2.6 years experience in Java Spring boot backend development.
+- 🔭 Currently working as a DSE in Infosys having 2.6 years experience in Java Spring boot backend development.
 
 - 👨🏽‍💻 Ask me about Java Springboot / Competitive Programming / Data Structures & Algorithms.
 
