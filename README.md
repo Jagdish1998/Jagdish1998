@@ -40,8 +40,3 @@
 
 <br/>
 <hr>
-<p align="center">
-    <a href="https://github.com/adityathakurxd/">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Jagdish1998&theme=dark" />
-  </a>
-</p>
