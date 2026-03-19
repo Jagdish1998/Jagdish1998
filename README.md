@@ -2,11 +2,11 @@
 
 - 👋 I'm Jagdish, a passionate tech enthusiast, coder and a learner.
 
-- 🔭 Currently working as a Lead Software Engineer in Persistent Systems having 3.5 years experience in Java Spring boot backend development.
+- 🔭 Currently working as a Lead Software Engineer in Persistent Systems having 3.8 years experience in Java Spring boot backend development.
 
 - 👨🏽‍💻 Ask me about Java Springboot / Competitive Programming / Data Structures & Algorithms.
 
-- 🌱 2025 Goals: I'm currently learning cloud technologies like AWS.
+- 🌱 2026 Goals: I'm currently learning cloud technologies like AWS.
 
 - ⚡ Hobbies: I ❤️ reading finance books and about startups.
 
